@@ -37,8 +37,6 @@ Getting Started
 
 To run this project locally, follow these steps:
 
-Clone the repository:
-git clone https://github.com/yourusername/simsnap.git
 cd simsnap
 Install dependencies:
 
